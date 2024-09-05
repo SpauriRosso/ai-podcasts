@@ -1,31 +1,37 @@
-# Man with a Katana: A Disturbing Incident and Its Aftermath
+# Google Business Listings: A Case of Phone Number Hijacking
 
-Hélia: Welcome, everyone, to a special episode of *In Today's France*. I'm Hélia, and I'm here with my co-host, Mike, to discuss a recent incident that has left many of us shaken.
+Hélia: Hello, everyone, and welcome to a special investigation on *In Today's France*. Today, we're delving into a story that highlights the potential pitfalls of online business listings and the need for vigilance.
 
-Mike: Hélia, this is indeed a troubling event that raises several important questions. We aim to provide our audience with a comprehensive analysis and our personal insights.
+Mike: That's right, Hélia. We're talking about Google's Business Listings, a free service that allows businesses to create an online presence, and how this seemingly helpful tool can be exploited.
 
-Hélia: So, let's begin. On Saturday, the peaceful streets of Caluire-et-Cuire, a suburb near Lyon, were disrupted by a terrifying scene. A middle-aged man, brandishing a katana, a traditional Japanese sword, was shouting religious slogans, creating a sense of fear and confusion among the residents.
+Hélia: So, let's set the scene. Google introduced the concept of Business Listings, formerly known as Google My Business, back in 2014. These listings are like digital storefronts, allowing businesses to showcase their location, opening hours, photos, and even personalized information.
 
-Mike: This is a scenario that no one wants to witness, Hélia. The sight of a man, dressed in a djellaba, running around with a katana and shouting "Allah Akbar" is truly alarming. It's natural for people to fear the worst in such situations.
+Mike: It's a great way for small businesses to gain visibility, especially in their local communities. But here's where things get interesting. When creating a listing, Google asks for basic information like the business name, address, and contact details, including a phone number.
 
-Hélia: Absolutely, Mike. The residents' quick thinking and prompt action are commendable. They immediately contacted the police, who responded with remarkable efficiency.
+Hélia: And this is where the issue arises. An astute Twitter user recently shared their experience when searching for a local bakery's contact information on Google. Instead of the bakery's actual number, they were presented with a premium-rate phone number starting with 089, which incurs a charge of 3 euros per call.
 
-Mike: The police deserve credit for their swift response. The Anti-Crime Brigade officers were on the scene in a matter of minutes, ensuring the safety of the public. It's a testament to their training and dedication.
+Mike: That's quite a surprise for someone just looking to buy a baguette! So, our curious Twitter user decided to investigate further. They discovered that this premium-rate number was not directly associated with the bakery but was, in fact, registered to a third-party company.
 
-Hélia: I agree, Mike. The officers managed to restrain the man without any violence, which is a relief. The fact that they found the katana nearby and took him into custody is a significant development.
+Hélia: This is where it gets even more concerning. Upon further research, it was found that this same premium-rate number was linked to the Google Business Listings of other bakeries, not just in the same town but also in Paris.
 
-Mike: What's even more crucial is the subsequent psychiatric evaluation. It's essential to understand the mental state of individuals who engage in such behavior. In this case, the authorities made a responsible decision to hospitalize the man.
+Mike: A clear case of phone number hijacking, Hélia. It seems someone has been taking advantage of Google's listing service to generate revenue through these premium-rate calls.
 
-Hélia: You're right, Mike. This incident highlights the complex intersection of public safety and mental health. It's a delicate balance, and I believe the authorities handled it well. The man is now where he can receive the necessary care.
+Hélia: Absolutely. And this raises important questions about the verification process for these listings. Google does mention that they may request additional information for validation, but there doesn't seem to be a systematic check on the provided contact details.
 
-Mike: Absolutely. We must also consider the broader implications. Incidents like these can fuel fear and misunderstanding, especially in today's socio-political climate. It's important to address these concerns and provide context.
+Mike: It's a loophole that needs addressing. The ease of creating these listings, combined with the potential for financial gain, has led to this unfortunate situation.
 
-Hélia: I couldn't agree more. As journalists with a left-leaning perspective, we must emphasize the importance of not jumping to conclusions. This incident should not be used to stigmatize any particular community or religion.
+Hélia: Now, let's talk about the different types of phone numbers and how they work in France. Premium-rate numbers, like the one in this case, are part of a specific category. They start with 081, 082, or 089, and calls to these numbers incur additional charges.
 
-Mike: Well said, Hélia. We need to encourage a nuanced understanding. While the man's actions were disturbing, we must also consider the possibility of mental health issues and the need for support and treatment.
+Mike: It's essential for consumers to be aware of these prefixes. There are also toll-free numbers starting with 0800 to 0805, and shared-cost numbers from 0806 to 0809, which are free but may be deducted from your phone plan allowance.
 
-Hélia: Exactly. As we await further updates from the authorities, our thoughts are with the residents of Caluire-et-Cuire. This incident serves as a reminder of the challenges we face as a society and the importance of staying vigilant yet compassionate.
+Hélia: This incident also brings to light the importance of businesses managing their online presence. Google allows businesses to claim ownership of their listings, even if they were initially created by someone else.
 
-Mike: Indeed, Hélia. Let's continue to engage in these important discussions and provide our audience with a platform for informed dialogue.
+Mike: That's a crucial feature, Hélia. According to Google's FAQ, if a business owner doesn't respond to a claim request within three days, the claimant may be able to take control of the listing.
 
-Hélia: Thank you, Mike. And to our listeners, stay tuned as we bring you more insightful coverage on *In Today's France*. Stay safe, and stay informed.
+Hélia: So, a business owner who is not regularly checking their associated email address could potentially lose control of their online presence.
+
+Mike: Exactly. This story serves as a reminder for businesses to stay vigilant and actively manage their online profiles.
+
+Hélia: Absolutely. As we wrap up, let's emphasize the need for both consumers and businesses to be aware of these potential pitfalls. Stay informed, and don't hesitate to question suspicious online information.
+
+Mike: Well said, Hélia. Until next time, keep those eyes and ears open, and stay tuned to *In Today's France* for more insightful investigations.
